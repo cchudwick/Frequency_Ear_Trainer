@@ -3,17 +3,17 @@
 This is a Pure Data patch designed for frequency ear training. It is composed of three parts and contains the following features:
 
 
- - Frequency Generator - 
+ - Frequency Generator 
      - Vertical log frequency visualization
      - Random frequency button
      - Low, Mid, and High frequency range selection
      - "Test Mode" - hides frequency until user hits button
  
- - Real Time Spectrogram of Output - 
+ - Real Time Spectrogram of Output 
      - Linear or Logarithmic X-axis
      - Gain control
      
-  - 4 Channel Mixer - 
+  - 4 Channel Mixer 
      - Channel 1: Sine wave @ frequency
      - Channel 2: White Noise
      - Channel 3: ADC 1

@@ -24,4 +24,4 @@ This is a Pure Data patch designed for frequency ear training. It is composed of
      
     Feel free to download and enjoy! Hope it helps with frequency recognition. 
     
-    Contact me with any questions or concerns or thoughts on improvements.
+    Contact me with any questions / concerns / thoughts on improvements.
